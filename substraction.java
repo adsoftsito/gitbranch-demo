@@ -1,6 +1,6 @@
 /*
 
-substractio code here
+substraction code here
 
 */
 
